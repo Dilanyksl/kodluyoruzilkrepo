@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+![RESİM](https://github.com/Dilanyksl/kodluyoruzilkrepo.wiki.git)
 # kodluyoruzilkrepo
-![RESİM](Adsız.png)
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyo
 # Installation
